@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+/* =General Classes & Hacks
+-----------------------------------------------------------------------------*/
+body {
+	font: 62.5%/1.6 Georgia, Arial, Helvetica, sans-serif; /* with this settings 1em = 10px approx. */
+	background:#fff;
+	color: #58453E;
+}
+
+* { margin:0; padding:0; }
+
+/* slightly enhanced, universal clearfix hack */
+.clearfix:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+/* Remove border around linked images */
+img { border: 0; vertical-align:top; }
+
+strong { font-weight:bold; }
+
+ul { list-style: none; list-style-position: outside; }
+ol { list-style-position: inside; list-style: decimal; list-style-position: inside; margin: 0 0 1.5em 0; }
+
+p { font-size: 1.2em; line-height:160%; }
+
+a:link, a:visited { color:#BE5C2D; text-decoration: none; cursor:pointer; }
+a:hover, a:active { color:#58453E; }
+
+
+/* LAYOUT
+-----------------------------------------------------------------------------*/
+
+#wrapper { width:670px; margin:0 auto; background:#fff; }
+	
+	#header { padding-bottom:2px; background:transparent url(../img/separator.png) repeat-x left bottom; }
+
+		#header-top { height:20px; background:transparent url(../img/bkg_header.png) repeat-x left top; padding-right:40px; }
+			#header-top p { font-family:Arial, Helvetica, sans-serif; color:#BFB0A1; text-align:right; line-height:20px; font-size:1.1em; text-transform:uppercase; }
+			#header-top p span { display:inline-block; border-right:1px solid #BFB0A1; padding-right:4px; margin-right:4px; }
+
+		#header-main { height:78px; background:transparent url(../img/texture1.gif) repeat left top; padding:0 40px 0 60px; }
+			#brand { float:left; margin-top:30px; }
+			#slogan { float:right; margin-top:15px; }
+
+		
+	#content { background:transparent url(../img/texture2.gif) repeat left top; padding:10px 0 20px 0; }
+
+		h2 { font-size:1.7em; color:#BE5C2D; font-weight:normal; line-height:normal; margin-bottom:10px; line-height:100%; }
+
+		.item { background:transparent url(../img/separator.png) repeat-x left top; padding:20px 0px 20px 60px; } 
+			.item:first-child { background:none; } 
+			.item .image { float:left; margin-right:20px; } 
+				.item .image img { border:1px solid #fff; } 
+			.item .description { float:left; width:380px; } 
+			.item a.more { font-size:1.2em; } 
+	
+	#footer { background:transparent url(../img/separator.png) repeat-x left top; padding-top:2px; }
+		#footer .footer-main { background:transparent url(../img/texture1.gif) repeat left top; height:90px; margin-bottom:40px; padding:10px 0 0 60px; }
+		#footer .social { float:left; width:178px; margin-right:20px; }
+		#footer .social li { float:left; margin-right:10px; }
+		#footer .contact { float:left; }
+			#footer .contact p { font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#8A6A60; }
+			#footer .contact a:link, #footer .contact a:visited { color:#8A6A60; }
+			#footer .contact a:hover, #footer .contact a:active { color:#58453E; }

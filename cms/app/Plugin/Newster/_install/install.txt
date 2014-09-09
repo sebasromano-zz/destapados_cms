@@ -1,0 +1,18 @@
+
+Requerimientos:
+JS: datetimepicker
+Plugins: Upload
+
+
+Instalación:
+
+Importar tablas (tables.sql)
+Línea en bootstrap: CakePlugin::load( 'Newster', array( 'bootstrap' => true));
+Linea en bootstrap si no está: CakePlugin::load('Upload');
+js/vendor/datetimepicker/*
+
+
+Parchear helper
+if( !isset( $url['plugin']) || empty($url['plugin'])){
+	$url['plugin'] = null;
+}

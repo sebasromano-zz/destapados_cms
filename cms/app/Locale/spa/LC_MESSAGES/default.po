@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coviar.v1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-23 12:29-0300\n"
+"PO-Revision-Date: 2013-09-23 12:29-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: español\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: View\n"
+"X-Poedit-SearchPath-1: Controller\n"
+"X-Poedit-SearchPath-2: Model\n"
+
+#: View/Helper/UploaderHelper.php:24
+msgid "_FUB_ERROR_LOADING_MODEL"
+msgstr ""
+
+#: View/Helper/UploaderHelper.php:44
+msgid "Select file"
+msgstr "Seleccionar una archivo"
+
+#: View/Helper/UploaderHelper.php:45
+msgid "Change"
+msgstr "Cambiar"
+
+#: View/Helper/UploaderHelper.php:56
+msgid "Remove"
+msgstr "Borrar"
+
+#: Controller/AppController.php:71
+#: Controller/AppController.php:72
+msgid "Username or password incorrect"
+msgstr "Usuario o contraseña incorrecta"
+
+#: Controller/MediaController.php:14
+#: Controller/MediaController.php:60
+#: Controller/MediaController.php:95
+#: Controller/MediaController.php:176
+#: Controller/MediaController.php:215
+msgid "Media"
+msgstr "Multimedia"
+
+#: Controller/MediaController.php:71
+#: Controller/MediaController.php:106
+#: Controller/MediaController.php:226
+#: Controller/OrdersController.php:97
+#: Controller/ProductsController.php:100
+#: Controller/ProductsubtypesController.php:88
+#: Controller/ProducttypesController.php:87
+#: Controller/SubscriptionsController.php:88
+msgid "Data has been saved successfully."
+msgstr "Datos guardados con éxito."
+
+#: Controller/OrdersController.php:17
+#: Controller/OrdersController.php:76
+msgid "Orders"
+msgstr "Ordenes"
+
+#: Controller/OrdersDetailsController.php:17
+msgid "Orderdetails"
+msgstr "Detalle de ordenes"
+
+#: Controller/ProductsController.php:17
+msgid "Products"
+msgstr "Productos"
+
+#: Controller/ProductsController.php:84
+msgid "Productos"
+msgstr ""
+
+#: Controller/ProductsubtypesController.php:17
+msgid "Products Subtype"
+msgstr "Subtipo de Productos"
+
+#: Controller/ProductsubtypesController.php:77
+msgid "Product Subtype"
+msgstr "Subtipo de Producto"
+
+#: Controller/ProducttypesController.php:16
+msgid "Products Type"
+msgstr "Tipo de Producto"
+
+#: Controller/ProducttypesController.php:76
+msgid "Product Type"
+msgstr "Tipo Producto"
+
+#: Controller/SettingsController.php:14
+#: Controller/SettingsController.php:36
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: Controller/SettingsController.php:45
+#: Controller/UsersController.php:112
+#: Controller/UsersController.php:143
+msgid "Data has been saved successfully"
+msgstr "Datos guardados con éxito"
+
+#: Controller/SubscriptionsController.php:15
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+#: Controller/SubscriptionsController.php:74
+msgid "Subscription"
+msgstr "Suscripcion"
+
+#: Controller/UsersController.php:15
+msgid "Login"
+msgstr "Login"
+
+#: Controller/UsersController.php:49
+#: Controller/UsersController.php:58
+#: Controller/UsersController.php:100
+#: Controller/UsersController.php:131
+msgid "Users"
+msgstr "Usuarios"
+
+#: View/Elements/admin_modal.ctp:11
+msgid "Close"
+msgstr "Cerrar"
+
+#: View/Elements/admin_modal.ctp:14
+#: View/Elements/admin_modal.ctp:17
+msgid "Save"
+msgstr "Guardar"
+
+#: View/Elements/admin_modal.ctp:18
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: View/Elements/admin_pag.ctp:6
+msgid "Page <strong>{:page}</strong> / <strong>{:pages}</strong> - Showing <strong>{:current}</strong> / <strong>{:count}</strong>"
+msgstr "Página <strong>{:page}</strong> / <strong>{:pages}</strong> - Mostrando <strong>{:current}</strong> / <strong>{:count}</strong>"
+
+#: View/Elements/admin_sidebar_media.ctp:4
+msgid "Add Media"
+msgstr "Agregar multimedia"
+
+#: View/Elements/admin_sidebar_pages.ctp:3
+msgid "Pages"
+msgstr "Páginas"
+
+#: View/Elements/admin_sidebar_pages.ctp:4
+msgid "Add Page"
+msgstr "Agregar página"
+
+#: View/Elements/admin_sidebar_products.ctp:5
+msgid "Add Product"
+msgstr "Agregar Producto"
+
+#: View/Elements/admin_sidebar_products.ctp:7
+msgid "Product Subype"
+msgstr "Subtipo Producto"
+
+#: View/Elements/admin_sidebar_productsubtypes.ctp:3
+msgid "Product Subtypes"
+msgstr "Subtipo Productos"
+
+#: View/Elements/admin_sidebar_productsubtypes.ctp:4
+msgid "Add Subtype"
+msgstr "Agregar Subtipo"
+
+#: View/Elements/admin_sidebar_settings.ctp:3
+msgid "General Settings"
+msgstr "Configuraciones"
+
+#: View/Elements/admin_sidebar_settings.ctp:4
+msgid "Menus"
+msgstr "Menúes"
+
+#: View/Elements/admin_sidebar_settings.ctp:5
+msgid "Home Slide"
+msgstr "Imágenes home"
+
+#: View/Elements/admin_sidebar_settings.ctp:6
+msgid "Banners"
+msgstr "Banners"
+
+#: View/Elements/admin_sidebar_settings.ctp:7
+msgid "Social"
+msgstr "Social"
+
+#: View/Elements/admin_sidebar_settings.ctp:8
+msgid "SEO"
+msgstr "SEO"
+
+#: View/Elements/admin_sidebar_subscriptions.ctp:4
+msgid "Add Subscriber"
+msgstr "Agregar Suscriptor"
+
+#: View/Elements/admin_sidebar_users.ctp:4
+msgid "Add User"
+msgstr "Agregar usuario"
+
+#: View/Elements/admin_sidebar_users.ctp:5
+msgid "Profile"
+msgstr "Perfil"
+
+#: View/Layouts/admin.ctp:57
+msgid "Quit"
+msgstr "Salir"
+
+#: View/Media/admin_edit.ctp:7
+#: View/Media/admin_index.ctp:19
+#: View/Media/admin_insert_ckeditor.ctp:17
+#: View/Media/admin_insert_edit.ctp:5
+msgid "Add"
+msgstr "Agregar"
+
+#: View/Media/admin_edit.ctp:7
+#: View/Media/admin_index.ctp:50
+#: View/Media/admin_insert_edit.ctp:5
+msgid "Edit"
+msgstr "Editar"
+
+#: View/Media/admin_edit.ctp:7
+#: View/Media/admin_insert_edit.ctp:5
+msgid "media"
+msgstr "multimedia"
+
+#: View/Media/admin_edit.ctp:12
+msgid "General + EN"
+msgstr "General + EN"
+
+#: View/Media/admin_edit.ctp:13
+msgid "ES"
+msgstr "ES"
+
+#: View/Media/admin_edit.ctp:28
+#: View/Media/admin_edit.ctp:66
+#: View/Media/admin_index.ctp:40
+#: View/Media/admin_insert.ctp:5
+#: View/Media/admin_insert_ckeditor.ctp:27
+#: View/Media/admin_insert_edit.ctp:35
+msgid "Title"
+msgstr "Título"
+
+#: View/Media/admin_edit.ctp:30
+#: View/Media/admin_edit.ctp:68
+#: View/Media/admin_insert_edit.ctp:37
+msgid "Enter the title"
+msgstr "Ingrese un título"
+
+#: View/Media/admin_edit.ctp:35
+#: View/Media/admin_insert_edit.ctp:42
+msgid "Type"
+msgstr "Tipo"
+
+#: View/Media/admin_edit.ctp:37
+#: View/Media/admin_edit.ctp:43
+#: View/Media/admin_insert_edit.ctp:44
+#: View/Media/admin_insert_edit.ctp:50
+msgid "Image"
+msgstr "Imagen"
+
+#: View/Media/admin_edit.ctp:37
+#: View/Media/admin_insert_edit.ctp:44
+msgid "Video"
+msgstr "Video"
+
+#: View/Media/admin_edit.ctp:37
+#: View/Media/admin_insert_edit.ctp:44
+msgid "Select the type"
+msgstr "Seleccione un tipo"
+
+#: View/Media/admin_edit.ctp:52
+#: View/Media/admin_insert_edit.ctp:75
+msgid "Video URL"
+msgstr "URL del video"
+
+#: View/Media/admin_edit.ctp:54
+#: View/Media/admin_insert_edit.ctp:77
+msgid "Enter the url"
+msgstr "Ingrese una URL"
+
+#: View/Media/admin_index.ctp:20
+#: View/Media/admin_insert.ctp:14
+msgid "Delete"
+msgstr "Eliminar"
+
+#: View/Media/admin_index.ctp:26
+msgid "Search"
+msgstr "Buscar"
+
+#: View/Media/admin_index.ctp:39
+#: View/Media/admin_insert.ctp:4
+#: View/Media/admin_insert_ckeditor.ctp:26
+msgid "Preview"
+msgstr "Previsualización"
+
+#: View/Media/admin_index.ctp:64
+#: View/Media/admin_insert_ckeditor.ctp:46
+#: View/Media/admin_insert_ckeditor.ctp:50
+msgid "No records"
+msgstr "Sin registros"
+
+#: View/Media/admin_insert.ctp:22
+msgid "No images / videos"
+msgstr "Sin imagen/video"
+
+#: View/Media/admin_insert_ckeditor.ctp:12
+msgid "Image added"
+msgstr "Imagen agregada"
+
+#: View/Media/admin_insert_ckeditor.ctp:36
+msgid "Select"
+msgstr "Seleccione"
+
+#: View/Media/admin_insert_edit.ctp:16
+msgid "Back"
+msgstr "Atrás"
+
+#: View/Media/admin_insert_index.ctp:5
+msgid "Added to image"
+msgstr "Imagen agregada"
+
+#: View/OrderDetails/admin_edit.ctp:7
+msgid "News"
+msgstr "Noticias"
+
+#: View/OrderDetails/admin_edit.ctp:34
+#: View/Orders/admin_edit.ctp:42
+#: View/Orders/admin_index.ctp:37
+msgid "Nombre"
+msgstr "Nombre"
+
+#: View/OrderDetails/admin_edit.ctp:41
+#: View/Orders/admin_edit.ctp:49
+msgid "Apellido"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:43
+#: View/Orders/admin_edit.ctp:51
+#: View/Products/admin_edit.ctp:48
+msgid "Enter the description"
+msgstr "Ingrese una descripción"
+
+#: View/OrderDetails/admin_edit.ctp:48
+#: View/Orders/admin_edit.ctp:56
+#: View/Subscriptions/admin_edit.ctp:38
+#: View/Subscriptions/admin_index.ctp:41
+#: View/Users/admin_edit.ctp:36
+msgid "E-mail"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:50
+#: View/Orders/admin_edit.ctp:58
+#: View/Users/admin_edit.ctp:38
+msgid "Ingrese una dirección de e-mail válida"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:55
+#: View/Orders/admin_edit.ctp:63
+msgid "Dirección"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:57
+#: View/Orders/admin_edit.ctp:65
+msgid "Ingrese una dirección"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:62
+#: View/Products/admin_edit.ctp:39
+msgid "Subype"
+msgstr "Subtipo"
+
+#: View/OrderDetails/admin_edit.ctp:64
+msgid "Enter the zone"
+msgstr "Ingresar una zona"
+
+#: View/OrderDetails/admin_edit.ctp:69
+#: View/Orders/admin_edit.ctp:77
+msgid "Teléfono"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:71
+#: View/Orders/admin_edit.ctp:79
+msgid "Ingrese un teléfono"
+msgstr ""
+
+#: View/OrderDetails/admin_edit.ctp:76
+#: View/Orders/admin_edit.ctp:84
+msgid "Teléfono Móvil"
+msgstr ""
+
+#: View/OrderDetails/admin_index.ctp:9
+msgid "Detalle de Pedido"
+msgstr ""
+
+#: View/OrderDetails/admin_index.ctp:39
+msgid "Nro de Orden"
+msgstr ""
+
+#: View/OrderDetails/admin_index.ctp:40
+msgid "Detalle"
+msgstr "Detalle"
+
+#: View/OrderDetails/admin_index.ctp:51
+#: View/Orders/admin_index.ctp:51
+msgid "Ver detalle"
+msgstr ""
+
+#: View/Orders/admin_edit.ctp:35
+msgid "Estado del pedido"
+msgstr ""
+
+#: View/Orders/admin_edit.ctp:70
+msgid "Zone"
+msgstr "Zona"
+
+#: View/Orders/admin_edit.ctp:72
+#: View/Products/admin_edit.ctp:41
+#: View/Productsubtypes/admin_edit.ctp:37
+msgid "Enter the product type"
+msgstr "Ingrese el tipo de producto"
+
+#: View/Orders/admin_index.ctp:38
+msgid "Total compra"
+msgstr "Total de compra"
+
+#: View/Products/admin_edit.ctp:7
+msgid "Product"
+msgstr "Producto"
+
+#: View/Products/admin_edit.ctp:46
+msgid "Description"
+msgstr "Descripción"
+
+#: View/Products/admin_edit.ctp:53
+#: View/Products/admin_index.ctp:43
+msgid "Price"
+msgstr "Precio"
+
+#: View/Products/admin_edit.ctp:63
+msgid "Invalid file extension"
+msgstr "Extensión de archivo inválida"
+
+#: View/Products/admin_edit.ctp:72
+msgid "Image / Video Gallery"
+msgstr "Galería de Imagen / Video "
+
+#: View/Products/admin_edit.ctp:75
+msgid "Add new image"
+msgstr "Agregar nueva imagen"
+
+#: View/Products/admin_edit.ctp:75
+msgid "Add new image / video"
+msgstr "Agregar nueva imagen/video"
+
+#: View/Products/admin_edit.ctp:83
+#: View/Products/admin_edit.ctp:89
+msgid "Publish"
+msgstr "Publicar"
+
+#: View/Products/admin_edit.ctp:85
+msgid "Status"
+msgstr "Estado"
+
+#: View/Products/admin_edit.ctp:85
+msgid "New"
+msgstr "Nuevo"
+
+#: View/Products/admin_edit.ctp:85
+msgid "Published"
+msgstr "Publicado"
+
+#: View/Products/admin_edit.ctp:89
+msgid "Update"
+msgstr "Actualizar"
+
+#: View/Products/admin_index.ctp:42
+msgid "Subtype"
+msgstr "Subtipo"
+
+#: View/Settings/admin_edit.ctp:6
+msgid "setting"
+msgstr "Configuración"
+
+#: View/Settings/admin_edit.ctp:19
+msgid "Ingrese el valor"
+msgstr ""
+
+#: View/Subscriptions/admin_edit.ctp:8
+msgid "subscriber"
+msgstr "suscriptor"
+
+#: View/Subscriptions/admin_edit.ctp:32
+#: View/Subscriptions/admin_index.ctp:40
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: View/Subscriptions/admin_edit.ctp:34
+msgid "Enter the name"
+msgstr "Ingresar un nombre"
+
+#: View/Subscriptions/admin_edit.ctp:40
+msgid "Enter an e-mail valid"
+msgstr "Ingresar un email válido"
+
+#: View/Subscriptions/admin_index.ctp:21
+msgid "Export"
+msgstr "Exportar"
+
+#: View/Users/admin_edit.ctp:9
+msgid "user"
+msgstr "usuario"
+
+#: View/Users/admin_edit.ctp:16
+msgid "General"
+msgstr "General"
+
+#: View/Users/admin_edit.ctp:17
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: View/Users/admin_edit.ctp:29
+msgid "Username"
+msgstr "Usuario"
+
+#: View/Users/admin_edit.ctp:31
+msgid "Ya existe un usuario con este nombre"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:31
+msgid "Ingrese el nombre de usuario"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:43
+msgid "First Name"
+msgstr "Primer nombre"
+
+#: View/Users/admin_edit.ctp:45
+#: View/Users/admin_edit.ctp:52
+msgid "Ingrese el nombre completo"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:50
+msgid "Last Name"
+msgstr "Apellido"
+
+#: View/Users/admin_edit.ctp:58
+#: View/Users/admin_edit.ctp:101
+msgid "Password"
+msgstr "Contraseña"
+
+#: View/Users/admin_edit.ctp:60
+#: View/Users/admin_edit.ctp:103
+msgid "Ingrese la contraseña"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:66
+#: View/Users/admin_edit.ctp:110
+msgid "Las contraseñas no coinciden"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:71
+msgid "Send password?"
+msgstr "Enviar contraseña?"
+
+#: View/Users/admin_edit.ctp:74
+msgid "Send password to new user by email"
+msgstr "Enviar contraseña al usuario por email"
+
+#: View/Users/admin_edit.ctp:80
+msgid "Role"
+msgstr "Rol"
+
+#: View/Users/admin_edit.ctp:82
+msgid "Administrator"
+msgstr "Administrador"
+
+#: View/Users/admin_edit.ctp:82
+msgid "Client"
+msgstr "Cliente"
+
+#: View/Users/admin_edit.ctp:82
+msgid "Guide"
+msgstr "Guía"
+
+#: View/Users/admin_edit.ctp:82
+msgid "Select..."
+msgstr "Seleccione"
+
+#: View/Users/admin_edit.ctp:82
+msgid "Seleccione un tipo de usuario"
+msgstr ""
+
+#: View/Users/admin_edit.ctp:87
+msgid "Active"
+msgstr "Activo"
+
+#: View/Users/admin_edit.ctp:108
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+#: View/Users/admin_index.ctp:41
+#: View/Users/admin_profile.ctp:19
+msgid "Name"
+msgstr "Nombre"
+
+#: View/Users/admin_index.ctp:42
+msgid "Email"
+msgstr "Email"
+
+#: View/Users/admin_profile.ctp:43
+msgid "Nickname"
+msgstr "Nickname"
+
+#: View/Users/admin_profile.ctp:49
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#: View/Users/admin_profile.ctp:59
+msgid "Website"
+msgstr "Web"
+
+#: View/Users/admin_profile.ctp:66
+msgid "Skype"
+msgstr "Skype"
+
+#: View/Users/admin_profile.ctp:73
+msgid "GTalk"
+msgstr "Gtalk"
+
+#: View/Users/admin_profile.ctp:80
+msgid "Phone"
+msgstr "Teléfono"
+
+#: View/Users/admin_profile.ctp:86
+msgid "About Yourself"
+msgstr "Acerca de mí"
+
+#: View/Users/admin_profile.ctp:89
+msgid "Biographical Info"
+msgstr "Bio"
+
+#: View/Users/admin_profile.ctp:96
+msgid "Profile Picture"
+msgstr "Foto de perfil"
+
+#: View/Users/admin_profile.ctp:108
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: View/Users/admin_profile.ctp:111
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Si desea cambiar la contraseña escriba una nueva, de otra manera deje el campo en blanco."
+
+#: View/Users/admin_profile.ctp:118
+msgid "Type your new password again."
+msgstr "Repetir contraseña"
+
+#: View/Users/admin_profile.ctp:130
+msgid "Update Profile"
+msgstr "Actualizar perfil"
+
+#: View/Users/login.ctp:13
+msgid "Enter"
+msgstr "Ingresar"
+
+#: View/Users/login.ctp:16
+msgid "Keep me logged in"
+msgstr "Recordarme"
+
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgid "Articles"
+#~ msgstr "Artículos"
+
+#, fuzzy
+#~ msgid "Add Article"
+#~ msgstr "Artículos"
+
+#, fuzzy
+#~ msgid "Article categories"
+#~ msgstr "Sin categorías"
+
+#~ msgid "Galleries"
+#~ msgstr "Galerias"
+
+#~ msgid "Add Galleries"
+#~ msgstr "Agregar Galeria"
+
+#~ msgid "Add News"
+#~ msgstr "Agregar noticia"
+
+#~ msgid "Post Categories"
+#~ msgstr "Categorías de artículos"
+
+#~ msgid "Post Tags"
+#~ msgstr "Etiquetas de artículos"
+
+#~ msgid "Tours"
+#~ msgstr "Tours"
+
+#~ msgid "Add Tour"
+#~ msgstr "Agregar Tour"
+
+#~ msgid "Tour Categories"
+#~ msgstr "Categorías de tours"
+
+#~ msgid "Tour Tags"
+#~ msgstr "Etiquetas de tours"
+
+#~ msgid "Locations"
+#~ msgstr "Ubicaciones"
+
+#, fuzzy
+#~ msgid "Videos"
+#~ msgstr "Video"
+
+#, fuzzy
+#~ msgid "Add Videos"
+#~ msgstr "Agregar Slider"
+
+#~ msgid "Salir"
+#~ msgstr "Salir"
+
+#~ msgid "page"
+#~ msgstr "página"
+
+#~ msgid "Parent"
+#~ msgstr "Padre"
+
+#, fuzzy
+#~ msgid "Select parent"
+#~ msgstr "Seleccionar página padre"
+
+#, fuzzy
+#~ msgid "image"
+#~ msgstr "Imagen"
+
+#, fuzzy
+#~ msgid "Titulo"
+#~ msgstr "Título"
+
+#~ msgid "Enter the category"
+#~ msgstr "Ingrese categoría"
+
+#, fuzzy
+#~ msgid "Tipo"
+#~ msgstr "A"
+
+#, fuzzy
+#~ msgid "Seleccionar tipo"
+#~ msgstr "Seleccionar accion"
+
+#~ msgid "Enter description"
+#~ msgstr "Ingresar descripción"
+
+#, fuzzy
+#~ msgid "Orden"
+#~ msgstr "Orden"
+
+#, fuzzy
+#~ msgid "Seleccion archivo"
+#~ msgstr "Seleccionar accion"
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#~ msgid "Services"
+#~ msgstr "Servicios"
+
+#~ msgid "Service"
+#~ msgstr "Servicios"
+
+#, fuzzy
+#~ msgid "article"
+#~ msgstr "Artículos"
+
+#, fuzzy
+#~ msgid "General + ES"
+#~ msgstr "General + EN"
+
+#, fuzzy
+#~ msgid "Content"
+#~ msgstr "Comentario"
+
+#, fuzzy
+#~ msgid "Enter the content"
+#~ msgstr "Ingresar un comentario"
+
+#~ msgid "Tags"
+#~ msgstr "Etiquetas"
+
+#, fuzzy
+#~ msgid "Enter the tags"
+#~ msgstr "Ingrese la etiqueta"
+
+#~ msgid "When"
+#~ msgstr "Dónde"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Add new category"
+#~ msgstr "Agregar nueva categoría"
+
+#~ msgid "Enter title"
+#~ msgstr "Ingresar un título"
+
+#, fuzzy
+#~ msgid "Enter content"
+#~ msgstr "Ingresar un comentario"
+
+#~ msgid "category"
+#~ msgstr "categoría"
+
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Select parent category"
+#~ msgstr "Seleccione una categoría padre"
+
+#~ msgid "No categories"
+#~ msgstr "Sin categorías"
+
+#~ msgid "Enter the new category"
+#~ msgstr "Ingrese nueva categoría"
+
+#~ msgid "Add Service"
+#~ msgstr "Agregar Servicio"
+
+#, fuzzy
+#~ msgid "noticia"
+#~ msgstr "Social"
+
+#, fuzzy
+#~ msgid "video"
+#~ msgstr "Video"
+
+#~ msgid "Comments"
+#~ msgstr "Comentarios"
+
+#~ msgid "Add new comment"
+#~ msgstr "Agregar nuevo comentario"
+
+#~ msgid "Add new tag"
+#~ msgstr "Agregar nuevo tag"
+
+#~ msgid "Discussion"
+#~ msgstr "Discusión"
+
+#~ msgid "Allow comments"
+#~ msgstr "Aceptar comentarios"
+
+#~ msgid "Allow FB comments"
+#~ msgstr "Aceptar comentarios de Facebook"
+
+#~ msgid "Filter"
+#~ msgstr "Filtrar"
+
+#~ msgid "Action"
+#~ msgstr "Acciones"
+
+#~ msgid "Actions"
+#~ msgstr "Acciones"
+
+#~ msgid "Attachments"
+#~ msgstr "Adjuntos"
+
+#~ msgid "Mensaje"
+#~ msgstr "Mensaje"
+
+#~ msgid "Press notes"
+#~ msgstr "Notas de prensa"
+
+#~ msgid "Pressnote"
+#~ msgstr "Nota de prensa"
+
+#~ msgid "Results"
+#~ msgstr "Resultados"
+
+#~ msgid "actions"
+#~ msgstr "acciones"
+
+#~ msgid "Subtitle"
+#~ msgstr "Subtitulo"
+
+#~ msgid "Enter the subtitle"
+#~ msgstr "Ingrese un subtítulo"
+
+#~ msgid "attachment"
+#~ msgstr "adjunto"
+
+#~ msgid "File"
+#~ msgstr "Archivo"
+
+#~ msgid "No attachments"
+#~ msgstr "Sin adjuntos"
+
+#~ msgid "Added"
+#~ msgstr "Agregado"
+
+#, fuzzy
+#~ msgid "Info Vitivinicola"
+#~ msgstr "Agregar Info Vitivinicula"
+
+#~ msgid "Add Action"
+#~ msgstr "Agregar Acciones"
+
+#~ msgid "Add attachment"
+#~ msgstr "Agregar adjunto"
+
+#~ msgid "News Categories"
+#~ msgstr "Categorías de noticias"
+
+#~ msgid "Add Info Vitivinicula"
+#~ msgstr "Agregar Info Vitivinicula"
+
+#~ msgid "Add Result"
+#~ msgstr "Agregar Resultados"
+
+#~ msgid "Enter the Subtitle "
+#~ msgstr "Ingrese un subtítulo"
+
+#, fuzzy
+#~ msgid "Enter the summary"
+#~ msgstr "Ingrese una URL"
+
+#~ msgid "Add new attachment"
+#~ msgstr "Agregar adjunto"
+
+#~ msgid "pressnote"
+#~ msgstr "nota de prensa"
+
+#~ msgid "result"
+#~ msgstr "resultado"
+
+#~ msgid "Custom Fields"
+#~ msgstr "Campos personalizados"
+
+#~ msgid "Downloads"
+#~ msgstr "Descargas"
+
+#~ msgid "Itineraries"
+#~ msgstr "Itinerarios"
+
+#~ msgid "Metatags"
+#~ msgstr "Metatags"
+
+#~ msgid "Tickets"
+#~ msgstr "Tickets"
+
+#~ msgid "Submitted on"
+#~ msgstr "Enviado el"
+
+#~ msgid "at"
+#~ msgstr "en"
+
+#~ msgid "Unapprove"
+#~ msgstr "Desaprobar"
+
+#~ msgid "Approve"
+#~ msgstr "Aprobar"
+
+#~ msgid "Edit comment"
+#~ msgstr "Editar comentario"
+
+#~ msgid "No comments"
+#~ msgstr "Sin comentarios"
+
+#~ msgid "User"
+#~ msgstr "Usuario"
+
+#~ msgid "Select a user"
+#~ msgstr "Seleccionar un usuario"
+
+#~ msgid "Enter the email"
+#~ msgstr "Ingresar el email"
+
+#~ msgid "custom field"
+#~ msgstr "campo personalizado"
+
+#~ msgid "Value"
+#~ msgstr "Valores"
+
+#~ msgid "Edit custom field"
+#~ msgstr "Editar campo personalizado"
+
+#~ msgid "No custom fields"
+#~ msgstr "Sin campos personalizados"
+
+#~ msgid "Edit download"
+#~ msgstr "Editar descarga"
+
+#~ msgid "No downloads"
+#~ msgstr "Sin descargas"
+
+#~ msgid "Current"
+#~ msgstr "Actual"
+
+#~ msgid "Pressnotes"
+#~ msgstr "Notas de prensa"
+
+#~ msgid "Add pressnote"
+#~ msgstr "Agregar nota de prensa"
+
+#~ msgid "Stages"
+#~ msgstr "Niveles"
+
+#~ msgid "Edit stage"
+#~ msgstr "Editar nivel"
+
+#~ msgid "No stages"
+#~ msgstr "Sin niveles"
+
+#~ msgid "Stage"
+#~ msgstr "Nivel"
+
+#~ msgid "Enter the new stage"
+#~ msgstr "Ingrese un nuevo nivel"
+
+#~ msgid "Enter the order"
+#~ msgstr "Ingrese un orden"
+
+#~ msgid "Enter stage"
+#~ msgstr "Ingrese nivel"
+
+#~ msgid "Where"
+#~ msgstr "Donde"
+
+#~ msgid "Address"
+#~ msgstr "Dirección"
+
+#~ msgid "City"
+#~ msgstr "Ciudad"
+
+#~ msgid "Country"
+#~ msgstr "País"
+
+#~ msgid "Edit metatag"
+#~ msgstr "Editar metatag"
+
+#~ msgid "No metatags"
+#~ msgstr "No metatags"
+
+#~ msgid "tour"
+#~ msgstr "tour"
+
+#~ msgid "tag"
+#~ msgstr "etiqueta"
+
+#~ msgid "Tag"
+#~ msgstr "Etiqueta"
+
+#~ msgid "Enter tag"
+#~ msgstr "Ingrese etiqueta"
+
+#~ msgid "No tags"
+#~ msgstr "Sin etiquetas"
+
+#~ msgid "Enter the new tag"
+#~ msgstr "Ingrese nueva etiqueta"
+
+#~ msgid "Min/Max"
+#~ msgstr "Min/Max"
+
+#~ msgid "Start/End"
+#~ msgstr "Inicio/Fin"
+
+#~ msgid "Avail. Spaces"
+#~ msgstr "Espacios"
+
+#~ msgid "Booked"
+#~ msgstr "Reservado"
+
+#~ msgid "No tickets"
+#~ msgstr "Sin tickets"
+
+#~ msgid "Start / End"
+#~ msgstr "Inicio / Fin"
+
+#~ msgid "Location name"
+#~ msgstr "Nombre del lugar"
+
+#~ msgid "Itinerary"
+#~ msgstr "Itinerario"
+
+#~ msgid "Add new ticket"
+#~ msgstr "Agregar nuevo ticket"
+
+#~ msgid "Add new custom field"
+#~ msgstr "Agregar campo personalizado"
+
+#~ msgid "Seo"
+#~ msgstr "SEO"
+
+#~ msgid "Add new meta tag"
+#~ msgstr "Agregar nuevo metatag"
+
+#~ msgid "From"
+#~ msgstr "Desde"
+
+#~ msgid "Repeats"
+#~ msgstr "Repite"
+
+#~ msgid "Daily"
+#~ msgstr "Diario"
+
+#~ msgid "Weekly"
+#~ msgstr "Semanal"
+
+#~ msgid "Monthly"
+#~ msgstr "Mensual"
+
+#~ msgid "Annually"
+#~ msgstr "Anual"
+
+#~ msgid "Every"
+#~ msgstr "Cada"
+
+#~ msgid "year"
+#~ msgstr "año"
+
+#~ msgid "month"
+#~ msgstr "mes"
+
+#~ msgid "On the"
+#~ msgstr "En la"
+
+#~ msgid "First"
+#~ msgstr "Primera"
+
+#~ msgid "Second"
+#~ msgstr "Segunda"
+
+#~ msgid "Third"
+#~ msgstr "Tercera"
+
+#~ msgid "Fourth"
+#~ msgstr "Cuarta"
+
+#~ msgid "Last"
+#~ msgstr "Última"
+
+#~ msgid "Monday"
+#~ msgstr "Lunes"
+
+#~ msgid "Tuesday"
+#~ msgstr "Martes"
+
+#~ msgid "Wednesday"
+#~ msgstr "Miércoles"
+
+#~ msgid "Thursday"
+#~ msgstr "Jueves"
+
+#~ msgid "Friday"
+#~ msgstr "Viernes"
+
+#~ msgid "Saturday"
+#~ msgstr "Sábado"
+
+#~ msgid "Sunday"
+#~ msgstr "Domingo"
+
+#~ msgid "Select day"
+#~ msgstr "Seleccione un día"
+
+#~ msgid "of each month"
+#~ msgstr "de cada semana"
+
+#~ msgid "week"
+#~ msgstr "semana"
+
+#~ msgid "On"
+#~ msgstr "En"
+
+#~ msgid "day"
+#~ msgstr "día"
+
+#~ msgid "All day"
+#~ msgstr "Todo el día"
+
+#~ msgid "Lasts"
+#~ msgstr "Últimos"
+
+#~ msgid "days"
+#~ msgstr "días"
+
+#~ msgid "Guides"
+#~ msgstr "Guías"
+
+#~ msgid "Select a guide"
+#~ msgstr "Seleccione un guía"
+
+#~ msgid "Add new download"
+#~ msgstr "Agregar nueva descarga"
+
+#~ msgid "Booking Stats"
+#~ msgstr "Estado de reservas"
+
+#~ msgid "Average bookings"
+#~ msgstr "Reservas promedio"
+
+#~ msgid "Manage bookings"
+#~ msgstr "Manejar reservas"
+
+#~ msgid "Location"
+#~ msgstr "Ubicación"
